@@ -1,0 +1,1 @@
+This folders contains code for data preprocessing - we collect metadata of MSD and lyrics using SQLite database - then we map MSD ID to MusiXmatch ID 
