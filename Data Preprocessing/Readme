@@ -1,1 +1,2 @@
-This folders contains code for data preprocessing - we collect metadata of MSD and lyrics using SQLite database - then we map MSD ID to MusiXmatch ID 
+This folder contains code for data preprocessing tasks.<br>
+We collected metadata of Million Song Dataset and lyrics from musiXmatch using SQLite database. Then we mapped MSD ID to MusiXmatch ID. <br> 
