@@ -1,0 +1,2 @@
+This folder contains code for data preprocessing tasks.
+We collected metadata of Million Song Dataset and lyrics from musiXmatch using SQLite database. Then we mapped MSD ID to MusiXmatch ID. 
